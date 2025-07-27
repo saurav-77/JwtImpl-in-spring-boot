@@ -1,0 +1,65 @@
+[
+  {
+    "name": "admin",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "roles": ["ADMIN", "USER"]
+  },
+  {
+    "name": "john",
+    "email": "john@example.com",
+    "password": "pass123",
+    "roles": ["USER"]
+  },
+  {
+    "name": "jane",
+    "email": "jane@example.com",
+    "password": "secure456",
+    "roles": ["USER"]
+  },
+  {
+    "name": "mike",
+    "email": "mike@example.com",
+    "password": "managerpass",
+    "roles": ["MANAGER", "USER"]
+  },
+  {
+    "name": "devon",
+    "email": "devon@example.com",
+    "password": "devpass",
+    "roles": ["DEVELOPER"]
+  },
+  {
+    "name": "tester",
+    "email": "tester@example.com",
+    "password": "testpass",
+    "roles": ["TESTER"]
+  },
+  {
+    "name": "support",
+    "email": "support@example.com",
+    "password": "supportme",
+    "roles": ["SUPPORT"]
+  },
+  {
+    "name": "analyst",
+    "email": "analyst@example.com",
+    "password": "analyzethis",
+    "roles": ["ANALYST"]
+  },
+  {
+    "name": "viewer",
+    "email": "viewer@example.com",
+    "password": "readonlypass",
+    "roles": ["VIEWER"]
+  },
+  {
+    "name": "super",
+    "email": "super@example.com",
+    "password": "supersecure",
+    "roles": ["ADMIN", "USER", "DEVELOPER"]
+  }
+]
+
+
+
