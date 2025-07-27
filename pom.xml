@@ -12,7 +12,7 @@
 	<artifactId>learnjwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>learnjwt</name>
-	<description>Demo project for Spring Boot</description>
+	<description>learning jwt implementation in spring boot</description>
 	<url/>
 	<licenses>
 		<license/>
